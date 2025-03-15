@@ -2,6 +2,8 @@
 
 This project provides a Python implementation of the **N-Queens problem** solved using the **Simulated Annealing** algorithm. It includes an interactive GUI built with **Tkinter** that allows you to visualize the solving process in real-time, adjust the speed of the algorithm, and pause/resume the solver at any point.
 
+![flowchart](https://github.com/user-attachments/assets/50cb96bc-341a-4d8a-8360-e5e193de2f29)
+
 ---
 
 ## Features
